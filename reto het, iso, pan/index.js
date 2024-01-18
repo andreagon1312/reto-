@@ -47,9 +47,9 @@ function isIstogram(texto) {
     return true
 }
 
-console.log(isHeterograma('cesar')) 
-// console.log(isHeterograma('papa')) // false
-// console.log(isIstogram('cesare')) // false
-// console.log(isIstogram('papa')) // true
-// console.log(isPangrama('abcdefghijklmnopqrstuvwxyz')) // true
-// console.log(isPangrama('cesar')) // false
+console.log(isHeterograma('amo')) 
+console.log(isHeterograma('mama'))
+console.log(isIstogram('ilsysi'))
+console.log(isIstogram('papa'))
+console.log(isPangrama('abcdefghijklmnopqrstuvwxyz'))
+/console.log(isPangrama('nelson'))
